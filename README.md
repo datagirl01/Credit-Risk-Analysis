@@ -1,5 +1,7 @@
 # Credit-Risk-Analysis
-A Machine Learning Algorithm after effective analysis to help the financial institutions to perform the credit review and perform credit analysis.
+###A Machine Learning Algorithm after effective analysis to help the financial institutions to perform the credit review and perform credit analysis.
+
+
 In order to provide loans to customers, a bank needs to make right decision in determining who
 should get the approval and who should not. This dataset is the German Credit Data that contains
 20 attributes and the class attribute showing a good or a bad credit risk. We need to develop a data analytics based strategy for the bank managers that can help them in making a decision about loan approval for the prospective applicants.
