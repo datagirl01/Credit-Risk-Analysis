@@ -1,5 +1,5 @@
 # Credit-Risk-Analysis
-###A Machine Learning Algorithm after effective analysis to help the financial institutions to perform the credit review and perform credit analysis.
+### A Machine Learning Algorithm after effective analysis to help the financial institutions to perform the credit review and perform credit analysis.
 
 
 In order to provide loans to customers, a bank needs to make right decision in determining who
